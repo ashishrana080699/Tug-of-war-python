@@ -22,12 +22,19 @@ Your output will be a single line containing 2 numbers: the total weight of the 
 and the total weight of the people on the other team. If these numbers differ, give the lesser first.
 
 Sample Input
+
 1
 
+
 3
+
 100
+
 90
+
 200
 
+
 Sample Output
+
 190 200
