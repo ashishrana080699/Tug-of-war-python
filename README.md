@@ -6,6 +6,7 @@ two teams must not differ by more than 1; the total weight of the people on each
 nearly equal as possible.
 
 Input
+
   The input begins with a single positive integer on a line by itself indicating the number
 of the cases following, each of them as described below. This line is followed by a blank
 line, and there is also a blank line between two consecutive inputs.
@@ -14,6 +15,7 @@ gives the weight of person 1; the second the weight of person 2; and so on. Each
 between 1 and 450. There are at most 100 people at the picnic.
 
 Output
+
   For each test case, the output must follow the description below. The outputs of two
 consecutive cases will be separated by a blank line.
 Your output will be a single line containing 2 numbers: the total weight of the people on one team,
