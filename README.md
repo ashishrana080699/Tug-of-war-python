@@ -1,4 +1,7 @@
-Problem statement
+## follow me on twitter to get latest updates.
+https://twitter.com/ashishrana08
+
+## Problem statement
 
   A tug of war is to be arranged at the local office picnic. For the tug of war, the picnickers must be
 divided into two teams. Each person must be on one team or the other; the number of people on the
